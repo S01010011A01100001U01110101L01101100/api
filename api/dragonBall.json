@@ -1,0 +1,159 @@
+[
+    {
+        "id": 1,
+        "name": "Goku",
+        "ki": "60.000.000",
+        "maxKi": "90 Septillion",
+        "race": "Saiyan",
+        "gender": "Male",
+        "description": "El protagonista de la serie, conocido por su gran poder y personalidad amigable...",
+        "image": "https://dragonball-api.com/characters/goku_normal.webp",
+        "affiliation": "Z Fighter",
+        "deletedAt": null,
+        "originPlanet": {
+            "id": 3,
+            "name": "Vegeta",
+            "isDestroyed": true,
+            "description": "El planeta Vegeta, conocido como planeta Plant antes del fin de la Guerra Saiyan-tsufruiana...",
+            "image": "https://dragonball-api.com/planetas/Planeta_Vegeta_en_Dragon_Ball_Super_Broly.webp",
+            "deletedAt": null
+        },
+        "transformations": [
+            {
+                "id": 1,
+                "name": "Goku SSJ",
+                "image": "https://dragonball-api.com/transformaciones/goku_ssj.webp",
+                "ki": "3 Billion",
+                "deletedAt": null
+            },
+            {
+                "id": 2,
+                "name": "Goku SSJ2",
+                "image": "https://dragonball-api.com/transformaciones/goku_ssj2.webp",
+                "ki": "6 Billion",
+                "deletedAt": null
+            },
+            {
+                "id": 3,
+                "name": "Goku SSJ3",
+                "image": "https://dragonball-api.com/transformaciones/goku_ssj3.webp",
+                "ki": "24 Billion",
+                "deletedAt": null
+            },
+            {
+                "id": 4,
+                "name": "Goku SSJ4",
+                "image": "https://dragonball-api.com/transformaciones/goku_ssj4.webp",
+                "ki": "2 Quadrillion",
+                "deletedAt": null
+            },
+            {
+                "id": 5,
+                "name": "Goku SSJB",
+                "image": "https://dragonball-api.com/transformaciones/goku_ssjb.webp",
+                "ki": "9 Quintillion",
+                "deletedAt": null
+            },
+            {
+                "id": 44,
+                "name": "Goku Ultra Instinc",
+                "image": "https://dragonball-api.com/transformaciones/goku_ultra.webp",
+                "ki": "90 Septillion",
+                "deletedAt": null
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Vegeta",
+        "ki": "54.000.000",
+        "maxKi": "19.84 Septillion",
+        "race": "Saiyan",
+        "gender": "Male",
+        "description": "Príncipe de los Saiyans, inicialmente un villano, pero luego se une a los Z Fighters...",
+        "image": "https://dragonball-api.com/characters/vegeta_normal.webp",
+        "affiliation": "Z Fighter",
+        "deletedAt": null,
+        "originPlanet": {
+            "id": 3,
+            "name": "Vegeta",
+            "isDestroyed": true,
+            "description": "El planeta Vegeta, conocido como planeta Plant antes del fin de la Guerra Saiyan-tsufruiana...",
+            "image": "https://dragonball-api.com/planetas/Planeta_Vegeta_en_Dragon_Ball_Super_Broly.webp",
+            "deletedAt": null
+        },
+        "transformations": [
+            {
+                "id": 7,
+                "name": "Vegeta SSJ",
+                "image": "https://dragonball-api.com/transformaciones/vegeta%20SSJ%20(2).webp",
+                "ki": "330.000.000",
+                "deletedAt": null
+            },
+            {
+                "id": 8,
+                "name": "Vegeta SSJ2",
+                "image": "https://dragonball-api.com/transformaciones/vegeta%20SSJ2.webp",
+                "ki": "24 Billion",
+                "deletedAt": null
+            },
+            {
+                "id": 9,
+                "name": "Vegeta SSJ4",
+                "image": "https://dragonball-api.com/transformaciones/vegeta%20ssj4.webp",
+                "ki": "1.8 Trillion",
+                "deletedAt": null
+            },
+            {
+                "id": 10,
+                "name": "Vegeta SSJB",
+                "image": "https://dragonball-api.com/transformaciones/vegeta%20SSJB.webp",
+                "ki": "100 Quintillion",
+                "deletedAt": null
+            },
+            {
+                "id": 11,
+                "name": "Vegeta Mega Instinc Evil",
+                "image": "https://dragonball-api.com/transformaciones/vegeta%20mega%20instinto.webp",
+                "ki": "19.84 Septillion",
+                "deletedAt": null
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Piccolo",
+        "ki": "2.000.000",
+        "maxKi": "500.000.000",
+        "race": "Namekian",
+        "gender": "Male",
+        "description": "Es un namekiano que surgió tras ser creado en los últimos momentos de vida de su padre, siendo su actual reencarnación. Aunque en un principio fue el archienemigo de Son Goku, con el paso del tiempo fue haciéndose menos malvado hasta finalmente convertirse en un ser bondadoso y miembro de los Guerreros Z. A través del tiempo, también comenzó a tomarle cariño a su discípulo Son Gohan, a quien veía como una especie de \"vástago\" y formando un lazo de amistad con este.",
+        "image": "https://dragonball-api.com/characters/picolo_normal.webp",
+        "affiliation": "Z Fighter",
+        "deletedAt": null,
+        "originPlanet": {
+            "id": 1,
+            "name": "Namek",
+            "isDestroyed": true,
+            "description": "Planeta natal de los Namekianos. Escenario de importantes batallas y la obtención de las Dragon Balls de Namek.",
+            "image": "https://dragonball-api.com/planetas/Namek_U7.webp",
+            "deletedAt": null
+        },
+        "transformations": [
+            {
+                "id": 12,
+                "name": "Piccolo Super Namekian",
+                "image": "https://dragonball-api.com/transformaciones/Piccolo super namekiano.webp",
+                "ki": "2.175 Billion",
+                "deletedAt": null
+            },
+            {
+                "id": 13,
+                "name": "Piccolo Orange",
+                "image": "https://dragonball-api.com/transformaciones/picolo orange.webp",
+                "ki": "41.25 Quintillion",
+                "deletedAt": null
+            }
+        ]
+    }
+]
